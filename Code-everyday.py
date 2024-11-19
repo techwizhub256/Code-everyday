@@ -19,3 +19,4 @@ AR = ('Continue commit5ting, u never know what this will hold for us all, take y
 print(AR)
 PANEL = ('Discussion, Hello all of us, glad that we are in our house')
 print(PANEL)
+John = ('Am married, but now leaving Nakasero Hospital, could we please align resources')
